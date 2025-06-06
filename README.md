@@ -15,6 +15,8 @@ Proyecto dividido en tres fases: preprocesado, modelado y predicción final.
 Aplicación de varios clasificadores para detectar clientes con riesgo de abandono en el sector telecomunicaciones.  
 🔧 *Python, pandas, scikit-learn
 
+---
+
 ### 📊 **Dashboard de Indicadores de Desarrollo Humano**  
 Visualización interactiva de datos del Programa de las Naciones Unidas para el Desarrollo (PNUD).  
 Análisis comparativo de indicadores sociales y económicos a nivel global.  
