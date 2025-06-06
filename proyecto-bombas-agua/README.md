@@ -1,6 +1,6 @@
 # Predicción del Estado de Bombas de Agua (Competición "Pump it Up")
 
-Proyecto de ciencia de datos desarrollado en el contexto de la competición *Pump it Up: Data Mining the Water Table*, organizada por DrivenData. El objetivo es predecir el estado operativo de bombas de agua en Tanzania a partir de datos geográficos, técnicos y administrativos.
+Proyecto de Data Science desarrollado en el contexto de la competición *Pump it Up: Data Mining the Water Table*, organizada por DrivenData. El objetivo es predecir el estado operativo de bombas de agua en Tanzania a partir de datos geográficos, técnicos y administrativos.
 
 
 ## 📁 Datos
@@ -11,9 +11,9 @@ Los datos provienen de la competición oficial y están disponibles públicament
 
 - Python (pandas, scikit-learn, XGBoost)
 - Ingeniería de variables y codificación categórica
-- Selección de características por importancia
+- Selección de variables por importancia
 - Validación cruzada
-- MLflow para seguimiento de experimentos
+- MLflow para seguimiento de experimentos y selección del mejor modelo.
 
 ## 🎯 Objetivo
 
